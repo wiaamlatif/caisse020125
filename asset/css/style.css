@@ -1,0 +1,55 @@
+#title{
+    text-align: center;
+}
+
+.container{
+ 
+    
+
+}
+
+.col{
+    border:solid red 1px;
+}
+
+.alert{ 
+ 
+}
+
+.testo{
+    color:red;
+}
+
+.qtyInput, .qtyInputTk{
+    width:50px;
+    color:green;
+    font-weight:bolder;
+    font-size: larger;
+    border-radius: 5px;
+    border-color: blue;
+    text-align: center;
+}
+
+.visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    left: -10000px;
+    overflow: hidden;
+  }
+
+  .required {
+    color: red;
+  }
+  
+  .fieldset {
+    margin: 6px 0;
+  }
+  
+  label {
+    display: inline-block;
+    width: 120px;
+    vertical-align: top;
+  }
+  
+
